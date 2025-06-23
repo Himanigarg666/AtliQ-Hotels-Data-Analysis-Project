@@ -1,7 +1,3 @@
-Here’s a revised and professional **GitHub README** version of your project write-up, with a clear **"Contact"** section added at the end and the formatting improved for clarity and presentation:
-
----
-
 # 🏨 Data Analysis in Hospitality Domain Using Python
 
 ## 📋 Project Overview
